@@ -31,7 +31,7 @@
 - **Zebidar Donation App** — Go(Gin)+MongoDB backend, Flutter client, Chapa payments.
 - **Amharic OCR** — YOLO-based detector + OCR recognizer; ~93% correct lines (CER ~7%).
 
-## 📈 Stats (optional)
+## 📈 Stats
 <p>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Zeamanuel-Admasu&show_icons=true&theme=default" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeamanuel-Admasu&layout=compact" />
