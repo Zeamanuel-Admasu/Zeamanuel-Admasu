@@ -4,6 +4,7 @@
 <p align="center">Software Engineering student @ AAiT • Backend (Go/Nest) • Flutter • Applied ML</p>
 
 <p align="center">
+  <a href="https://Zeamanuel-Admasu.github.io"><img src="https://img.shields.io/badge/Portfolio-Live-2ea043?logo=vercel&logoColor=white" /></a>
   <a href="mailto:zeamanshibru2020@gmail.com"><img src="https://img.shields.io/badge/Email-zeamanshibru2020%40gmail.com-red?logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/zeamanuel-admasu-32b6a6212/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
   <a href="https://github.com/Zeamanuel-Admasu"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" /></a>
@@ -31,10 +32,13 @@
 - **Zebidar Donation App** — Go(Gin)+MongoDB backend, Flutter client, Chapa payments.
 - **Amharic OCR** — YOLO-based detector + OCR recognizer; ~93% correct lines (CER ~7%).
 
+## 🔗 Live Portfolio
+**https://Zeamanuel-Admasu.github.io**
+
+> ✉️ Want to collaborate? Email me or connect on LinkedIn.
+
 ## 📈 Stats
 <p>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Zeamanuel-Admasu&show_icons=true&theme=default" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeamanuel-Admasu&layout=compact" />
 </p>
-
-> ✉️ Want to collaborate? Email me or connect on LinkedIn.
