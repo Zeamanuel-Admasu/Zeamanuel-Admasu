@@ -1,7 +1,7 @@
 <!-- Profile README for Zeamanuel-Admasu -->
 
 <h1 align="center">👋🏾 This is Zeamanuel Admasu</h1>
-<p align="center">Software Engineering student @ AAiT • Backend (Go/Nest) • Flutter • Applied ML</p>
+<p align="center">Software Engineer • Backend (Go/Nest) • Flutter • Applied ML</p
 
 <p align="center">
   <a href="https://Zeamanuel-Admasu.github.io"><img src="https://img.shields.io/badge/Portfolio-Live-2ea043?logo=vercel&logoColor=white" /></a>
