@@ -22,6 +22,7 @@
 **Languages:** Go, Python, Java, TypeScript/JavaScript  
 **Backends:** Gin (Go), NestJS (Node), PostgreSQL, MongoDB, Redis  
 **Mobile/Web:** Flutter, Next.js, Tailwind  
+**Desktop Applications:** Electron-based tooling and system utilities
 **ML/CV:** PyTorch, YOLOv8, scikit-learn  
 **DevOps:** Docker, GitHub Actions
 
