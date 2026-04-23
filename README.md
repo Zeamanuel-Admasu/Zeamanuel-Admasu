@@ -33,8 +33,6 @@
 - **Zebidar Donation App** — Go(Gin)+MongoDB backend, Flutter client, Chapa payments.
 - **Amharic OCR** — YOLO-based detector + OCR recognizer; ~93% correct lines (CER ~7%).
 
-## 🔗 Live Portfolio
-**https://Zeamanuel-Admasu.github.io**
 
 > ✉️ Want to collaborate? Email me or connect on LinkedIn.
 
